@@ -2,7 +2,7 @@
 
   <!-- Animated Header Typing Banner -->
   <a href="https://github.com/Sivasurya8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=550&height=90&lines=Hi+there,+I'm+Sivasurya+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+scalable+systems+%26+smart+tools;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=550&height=90&lines=Hi+there,+I'm+Sivasurya8+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+scalable+systems+%26+smart+tools;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,33 +11,30 @@
 
   <!-- Social & Profile Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/Sivasurya8" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://github.com/=followers">
+      <img src="https://img.shields.io/github/followers/=Followers&style=for-the-badge&color=238636" alt="Followers" />
     </a>
-    <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://github.com/Sivasurya8?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sivasurya8?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
+    <a href="https://github.com/=repositories&sort=stargazers">
+      <img src="https://img.shields.io/github/stars/=Stars&style=for-the-badge&color=e3b341" alt="Stars" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
+### ðŸš€ About Me
 
-- 🔭 **Currently working on:** Distributed store management & billing automation agents ([StoreOps / KiranaPilot](https://github.com/Sivasurya8))
-- 🌱 **Learning & Exploring:** Reactive systems, AI Agent Workflows, and Cloud Native Architectures
-- 💬 **Ask me about:** Java, Spring Boot, RESTful APIs, PostgreSQL, Docker, Microservices
-- ⚡ **Fun Fact:** I automate repetitive tasks so I can spend more time building cool stuff!
+- ðŸ”­ **Currently working on:** Distributed store management & billing automation agents ([StoreOps / KiranaPilot](https://github.com/Sivasurya8/StoreOps_Agent))
+- ðŸŒ± **Learning & Exploring:** Reactive systems, AI Agent Workflows, and Cloud Native Architectures
+- ðŸ’¬ **Ask me about:** Java, Spring Boot, RESTful APIs, PostgreSQL, Docker, Microservices
+- âš¡ **Fun Fact:** I automate repetitive tasks so I can spend more time building cool stuff!
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### ðŸ› ï¸ Tech Stack & Tooling
 
 <div align="left">
 
@@ -69,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### ðŸ“Š GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sivasurya8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -82,7 +79,7 @@
 
 ---
 
-### 🐍 Contribution Graph Animation
+### ðŸ Contribution Graph Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivasurya8/Sivasurya8/output/github-contribution-grid-snake-dark.svg">
@@ -93,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Tip: Star repositories you find interesting and keep pushing code daily!</sub>
+  <sub>â­ï¸ Built with passion â€¢ Feel free to connect and collaborate!</sub>
 </div>
