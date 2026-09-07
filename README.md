@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1>Hi, I'm Sivasurya ðŸ‘‹</h1>
-  <h3>ðŸŽ® 3D Technical Artist & Game Developer</h3>
+  <h1>Hi, I'm Sivasurya :wave:</h1>
+  <h3>:video_game: 3D Technical Artist & Game Developer</h3>
 
   <p>
     <a href="https://github.com/Sivasurya8">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Unreal+Engine+5+%7C+Unity+%7C+Blender+%7C+C%2B%2B;Realtime+VFX+%7C+Shaders+%7C+Physics+Simulation;Building+Scalable+Multiplayer+Game+Systems" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Unreal+Engine+5+%7C+Unity+%7C+Blender+%7C+C%2B%2B;Realtime+VFX+%7C+Shaders+%7C+Physics+Simulation;Building+Scalable+Multiplayer+Game+Systems" alt="Typing SVG" />
     </a>
   </p>
 
@@ -22,7 +22,7 @@
 
 ---
 
-### ðŸ•¹ï¸ About Me
+### :joystick: About Me
 
 ```yaml
 Focus: 3D Technical Art, Game Physics & High-Performance Engines
@@ -37,7 +37,7 @@ Specialties:
 
 ---
 
-### ðŸ› ï¸ 3D & Development Arsenal
+### :hammer_and_wrench: 3D & Development Arsenal
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Specialties:
 
 ---
 
-### ðŸ Snake Contribution Game
+### :snake: Snake Contribution Game
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sivasurya8/Sivasurya8/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
@@ -69,5 +69,5 @@ Specialties:
 ---
 
 <div align="center">
-  <sub>â­ï¸ Built with passion for gaming, 3D graphics & interactive worlds.</sub>
+  <sub>:star: Built with passion for gaming, 3D graphics & interactive worlds.</sub>
 </div>
