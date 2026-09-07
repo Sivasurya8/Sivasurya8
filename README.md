@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- 3D & Game Dev Animated Cyberpunk / Neon Header -->
+  <!-- Pro Sci-Fi / Cyberpunk Dynamic Header -->
   <a href="https://github.com/Sivasurya8">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=Sivasurya%20M&fontSize=50&fontAlignY=38&desc=3D%20Technical%20Artist%20%E2%80%A2%20Game%20Engine%20%26%20Backend%20Developer&descFontSize=20&descAlignY=62&fontColor=ffffff&stroke=00f2fe&strokeWidth=2" width="100%" alt="Header Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=80&lines=SIVASURYA+M;3D+TECHNICAL+ARTIST;GAME+ENGINE+DEVELOPER" alt="Sivasurya M - 3D Artist & Game Dev" />
   </a>
 
-  <!-- Typing SVG for Game Dev / 3D Specs -->
+  <!-- Secondary Dynamic Sub-Header -->
   <a href="https://github.com/Sivasurya8">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=650&height=85&lines=Crafting+Next-Gen+3D+Worlds+%26+Game+Engines;Unreal+Engine+%E2%80%A2+Unity+%E2%80%A2+Blender+%E2%80%A2+C%2B%2B;Realtime+Shaders,+VFX+%26+Physics+Simulation;Building+Scalable+Multiplayer+Game+Backends" alt="Game Dev Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Unreal+Engine+5+%E2%80%A2+Unity+%E2%80%A2+Blender+%E2%80%A2+C%2B%2B+%E2%80%A2+Custom+Shaders;Real-time+VFX,+Procedural+Generation+%26+Multiplayer+Systems" alt="Game Dev Tech Specs" />
   </a>
 
   <p align="center">
@@ -25,68 +25,66 @@
 
 ---
 
-### ðŸŽ® About Me & Creative Focus
+### ðŸŽ® Developer Dossier
 
 `yaml
-Role: 3D Technical Artist & Game / Systems Engineer
-Engine Mastery: Unreal Engine 5, Unity, Custom C++ OpenGL/Vulkan Engines
-Art & DCC Tools: Blender, Substance 3D, Maya, ZBrush, Photoshop
-Specialties: 
-  - Real-time PBR Rendering & Compute Shaders (HLSL / GLSL)
-  - Procedural 3D Environment Design & Procedural Generation
-  - Character Rigging, Inverse Kinematics (IK) & Physics Systems
-  - High-performance Game Backends, Netcode & State Sync
+Specialization: 3D Technical Art & High-Performance Game Engineering
+Primary Engines: Unreal Engine 5, Unity, Custom C++ OpenGL/Vulkan
+Art & DCC Tools: Blender, Substance 3D Painter, Maya, ZBrush, Photoshop
+Core Competencies:
+  - Real-time PBR Shaders & Compute Graphics (HLSL / GLSL)
+  - Procedural World Generation & Environment Art
+  - Character Rigging, Inverse Kinematics (IK) & Physics Engines
+  - Low-Latency Multiplayer Game Servers & Networking
 `
 
 ---
 
-### ðŸŽ¨ 3D, Game Engine & Development Arsenal
+### ðŸŽ¨ Tech Stack & Tooling
 
 <div align="center">
 
-#### **Game Engines, 3D Graphics & Creative Suite**
+#### **Game Engines & 3D Tech**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs,cs,cpp,c,rust&theme=dark" alt="3D and Game Engines" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs,cs,cpp,c,rust&perline=8" alt="3D and Game Engines" />
 </p>
 
-#### **Backend, APIs & High-Performance Systems**
+#### **Backend & High-Performance Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres,mysql,redis,mongodb&theme=dark" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres,mysql,redis,mongodb&perline=8" alt="Backend and Database" />
 </p>
 
-#### **DevOps, CI/CD & Production Tooling**
+#### **Production, Pipeline & Creative Suite**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,postman,figma,photoshop,vscode&theme=dark" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,postman,figma,photoshop,vscode&perline=8" alt="DevOps and Tools" />
 </p>
 
 </div>
 
 ---
 
-### ðŸ† 3D Game Dev GitHub Trophies
+### ðŸ† GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Sivasurya8">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sivasurya8&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivasurya8&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### ðŸ“Š Live Game Studio Telemetry & Stats
+### ðŸ“Š Telemetry & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasurya8&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00f2fe&icon_color=ff007f&text_color=ffffff&bg_color=0d1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasurya8&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivasurya8&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasurya8&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasurya8&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE" width="99%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasurya8&theme=radical&hide_border=true" width="99%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### ðŸ Snake Contribution Game (Automated Eater)
+### ðŸ Snake Contribution Arena
 
 <div align="center">
   <picture>
@@ -99,5 +97,5 @@ Specialties:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=120&section=footer" width="100%" />
+  <sub>âœ¨ Ready to collaborate on next-gen games, interactive 3D simulations, and engine tech.</sub>
 </div>
