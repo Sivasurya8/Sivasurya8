@@ -60,10 +60,18 @@ Specialties:
 
 ---
 
-### :snake: Snake Contribution Game
+### :city_sunset: 3D Isometric Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sivasurya8/Sivasurya8/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sivasurya8/Sivasurya8/main/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution City" width="100%" />
+</div>
+
+---
+
+### :chart_with_upwards_trend: Game Dev Activity Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivasurya8&theme=react-dark&bg_color=0d1117&color=00f2fe&line=ff007f&point=00f2fe&hide_border=true" width="100%" alt="Activity Pulse Graph" />
 </div>
 
 ---
